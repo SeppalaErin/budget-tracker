@@ -1,8 +1,16 @@
 {
-  "name": "budget-app",
+  "name": "budget-trackers",
   "version": "1.0.0",
-  "description": "",
+  "description": "Budget Tracker application to allow for offline and online access and functionality",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "compression": "^1.7.4",
+    "lite-server": "^2.5.3",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -10,19 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/aseppala98/budget-tracker.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Noha Ashraf",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/aseppala98/budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
-  "dependencies": {
-    "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "lite-server": "^2.5.3",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  }
+  "homepage": "https://github.com/aseppala98/budget-tracker#readme"
 }
