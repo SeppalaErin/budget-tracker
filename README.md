@@ -56,7 +56,7 @@ This application enables the user to be able to add expenses and deposits whethe
 ## How It Works
 Upon opening the application the user is presented with the Homepage which enables the user to add or subtract funds.
 
-![Homepage](./assets/images/homepage.png)
+![Homepage](./public/images/homepage.png)
 
 ### Add Funds 
 Adding Funds works online and added offline, once the user adds a Name of Transaction and Transaction Ammount and clicks on the + Add Funds button, the funds are added.
