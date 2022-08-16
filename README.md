@@ -96,5 +96,5 @@ The Online/Offline Budget Tracker is deployed on Heroky through the following li
 The Application is tested using the browser through operating it and inspecting to turn it online and offline and make sure that after the application was offline while adding or subtracting funds, the data is still available after going back online. The Database is tested using Robot 3T to make sure that once the user is online the front-end database is populated. 
 
 ## Questions
-* My repositories can be found at https://www.github.com/aseppala98
+* My repositories can be found at https://www.github.com/seppalaerin
 * For any questions regarding this application, you can email me at SeppalaErin98@gmail.com
